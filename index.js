@@ -1,4 +1,4 @@
-/*
+l/*
 1K SUBSCRIBE NIAT NYA ADAIN GIVEAWAY:V
 SUBSCRIBE HERMAN CHANEL
 BIAR GUE SEMANGAT UPLOD BANG
@@ -943,30 +943,26 @@ case 'public':
 //------------------< Menu >-------------------                                            
         case 'menu':
         case 'help':
-        tagme = '6283146208804'
+        tagme = '6285888258313'
         nono = `${ucapanWaktu} - @${sender.split("@")[0]}
 
-*◪ Status Bot*
-*𓅂 Creator :* _@${tagme}_
-*𓅂 Total User :* 163
-*𓅂 Bio :* ${bio}
-*𓅂 Yt :* ${yt}
-*𓅂 Version :* 1.0.0
-*𓅂 Prefix : [ Multi-Prefix ]*
-*𓅂 Speed :* _${latensie.toFixed(4)} Second_
+⊰𝗦𝘁𝗮𝘁𝘂𝘀 𝗕𝗼𝘁⊱
+𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : _@${tagme}_\
+𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : undefinded 
+𝗕𝗶𝗼 : ${bio}
+𝗩𝗲𝗿𝘀𝗶𝗼𝗻 : 𝟭.𝟬.𝟬
+𝗣𝗿𝗲𝗳𝗶𝘅 : [ 𝗠𝘂𝗹𝘁𝗶-𝗣𝗿𝗲𝗳𝗶𝘅 ]
+𝗦𝗽𝗲𝗲𝗱 :  _${latensie.toFixed(4)} Second_
 
-*◪ Status User*
-*𓅂 Name :* _${pushname}_
-*𓅂 Tag :* _@${sender.split("@")[0]}_
-*𓅂 Status :* _${premi}_
-*𓅂 Limit :* _${limitbiasa}_
-*𓅂 Limit Game :* _${gamelimit}_
-|────────────|
-|╔╗╔╗╔══╗╔══╗|
-|║╚╝║║╔╗║╚║║╝|
-|║╔╗║║╠╣║╔║║╗|
-|╚╝╚╝╚╝╚╝╚══╝|
-|────────────|
+𝗦𝘁𝗮𝘁𝘂𝘀 𝗨𝘀𝗲𝗿
+𝗡𝗮𝗺𝗲 : _${pushname}_
+𝗧𝗮𝗴 : _@${sender.split("@")[0]}_
+𝗦𝘁𝗮𝘁𝘂𝘀 : _${premi}_
+𝗟𝗶𝗺𝗶𝘁 : _${limitbiasa}_
+𝗟𝗶𝗺𝗶𝘁 𝗚𝗮𝗺𝗲 : _${gamelimit}_
+
+﷽
+
 *⌸Information*
 ⛝ _${prefix}update_
 ⛝ _${prefix}level_

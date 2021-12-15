@@ -89,10 +89,10 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 
 owner = setting.owner
 gamewaktu = setting.gamewaktu
-fake = `卍𝚑𝚎𝚛𝚖𝙰𝚗 𝚋𝚘𝚝` 
-footerr = `卍𝚑𝚎𝚛𝚖𝙰𝚗 𝚋𝚘𝚝` 
+fake = `卍Lolita Bot` 
+footerr = `卍Lolita Bot` 
 bio = `Sibuk`
-yt = `Herman Chanel`
+yt = `undefindet`
 banChats = true
 
 // Database
